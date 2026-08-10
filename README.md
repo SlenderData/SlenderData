@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlenderData&theme=shadow_green)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=SlenderData&theme=shadow_green)
 
 <!--
 **SlenderData/SlenderData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
